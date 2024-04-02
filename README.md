@@ -1,2 +1,2 @@
 # Shared-docs
-Vanguard视觉组培训资料
+VANGUARD战队视觉组培训资料
